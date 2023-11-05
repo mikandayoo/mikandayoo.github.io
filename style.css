@@ -1,0 +1,38 @@
+.profile{
+    padding: 5rem;
+}
+.skills {
+    padding: 4rem 0;
+}
+
+.about {
+    padding: 4rem 0 0 0;
+}
+
+.gallery,
+footer {
+    padding: 2rem;
+}
+
+.carousel {
+    padding-top: 2rem;
+}
+
+.icon-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+#carouselExample {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.carousel-inner .carousel-item img {
+    max-width: 100%;
+    height: auto;
+}
+
+.icons {
+    margin: 0 5px;
+}
